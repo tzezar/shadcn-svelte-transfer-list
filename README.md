@@ -1,8 +1,6 @@
-# shadcn-svelte-password-input
-Copy-paste password input component based on shadcn-svelte
-
-![image](https://github.com/user-attachments/assets/c8ac935f-d872-47ad-9e0d-e09d85b05499)
-
+# shadcn-svelte-transfer-list
+![image](https://github.com/user-attachments/assets/c308f9ff-b43e-4166-9f47-140a2156e187)
+Transfer-list component based on shadcn-svelte
 
 [Interactive demo](https://shadcn-svelte-transfer-list.vercel.app/) and how to use
 
