@@ -14,7 +14,7 @@
 			<div class="flex w-full flex-col gap-2 self-center font-medium">
 				<Separator />
 				<div class="flex flex-row gap-2 self-center">
-					<a href="https://github.com/tzezar/table"
+					<a href="https://github.com/tzezar"
 					class="text-primary font-medium underline underline-offset-4"
 						>Sebastian "Tzezar" Drozd {new Date().getFullYear()}</a
 					>
