@@ -1,9 +1,9 @@
 <script lang="ts">
 	import { createEventDispatcher } from 'svelte';
-	import Button from '../button/button.svelte';
-	import Input from '../input/input.svelte';
-	import Checkbox from '../checkbox/checkbox.svelte';
 	import { ScrollArea } from '$lib/components/ui/scroll-area/index.js';
+	import Checkbox from '$lib/components/ui/checkbox/checkbox.svelte';
+	import Input from '$lib/components/ui/input/input.svelte';
+	import Button from '$lib/components/ui/button/button.svelte';
 
 	type Item = {
 		id: number;
