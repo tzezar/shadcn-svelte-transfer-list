@@ -23,7 +23,7 @@
 		target = event.detail.target;
 	}
 
-	let code1 = `<scriptTag lang='ts'> // I could not close "script" tag in markdown for svelte reasons. Remember to rename it.
+	let code1 = `<script lang='ts'>
     import TransferList from '$lib/components/ui/transfer-list/transfer-list.svelte';
     
     // in current version shape of source object should be { id: number; name: string }, you can change it for your needs in the component
@@ -40,7 +40,7 @@
         source = event.detail.source;
         target = event.detail.target;
     }
-</scriptTag> 
+<\/script> 
 
 <TransferList
     bind:source
